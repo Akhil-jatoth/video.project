@@ -33,7 +33,7 @@ video {
     font-style:oblique;
     top:0px;
     left:0px;
-    /* right:px; */
+    /* right:0px; */
     bottom:900px;
     position:absolute;
     z-index: -1;
